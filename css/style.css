@@ -2,4 +2,8 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    --primary-color: #e6ebee;
+    --secondary-color: #393c45;
+    --white-color: white;
+    --shadow-color: #233261;
 }
