@@ -69,6 +69,11 @@ h1 {
     font-size: 20px;
 }
 
+.buttons {
+    position: relative;
+    display: block;
+}
+
 .btn {
     width: 140px;
     padding: 15px 35px;
@@ -78,6 +83,8 @@ h1 {
 }
 
 .follow {
+    position: absolute;
+    left: 0;
     display: inline-block;
     background-color: #3a5ec2;
     color: var(--primary-color);
@@ -90,6 +97,8 @@ h1 {
 }
 
 .message {
+    position: absolute;
+    right: 0;
     display: inline-block;
     background-color: var(--primary-color);
     color: var(--secondary-color);
