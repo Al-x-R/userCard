@@ -45,7 +45,6 @@ h1 {
     border-radius: 50%;
     overflow: hidden;
     object-fit: cover;
-    box-shadow: 2px 2px 2px 1px var(--shadow-color);
 }
 
 #info {
